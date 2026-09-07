@@ -14,6 +14,7 @@ rubric-creator/
     subject-guidance.md        교과·학교급 조정
     learning-use.md            기준 이해·자기/동료평가·수정·재확인, 교사 간 조정
     grading-use.md             수준–점수 대응, 연습/성적 반영, 증거 종합 조건
+    school-review.md           학교 평가계획 심의·점검표 대응
     sources.md                 근거 출처·재사용 경계
   agents/openai.yaml           Codex UI 메타데이터(선택)
 ```
