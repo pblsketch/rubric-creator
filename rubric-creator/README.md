@@ -8,10 +8,12 @@ rubric-creator/
   references/
     rubric-principles.md       요소·수준·배점 규칙, 점검표 11문항
     revise-rubric.md           기존 표 개선
+    task-design.md             목표에 맞는 수행과제 재설계(GRASPS)
     curriculum.md              성취기준 조회·검증
     dok.md                     DOK 활용 규칙
     subject-guidance.md        교과·학교급 조정
-    learning-use.md            학생 활용, 교사 간 기준 맞추기
+    learning-use.md            기준 이해·자기/동료평가·수정·재확인, 교사 간 조정
+    grading-use.md             수준–점수 대응, 연습/성적 반영, 증거 종합 조건
     sources.md                 근거 출처·재사용 경계
   agents/openai.yaml           Codex UI 메타데이터(선택)
 ```
@@ -50,3 +52,5 @@ rubric-creator/
 ## 범위
 
 이 스킬은 루브릭을 **만들고 고치는** 도구다. 학생이 제출한 과제물을 채점하지 않는다.
+
+"이 루브릭으로 자기평가 후 수정하는 활동을 설계해 줘", "총점과 점수 단계를 유지하며 배점을 검토해 줘"라고 요청할 수 있다. 형성평가와 성적 반영 설계는 Moss·Brookhart(2019), Brookhart(2017)의 관련 장을 반영했다. 자세한 근거는 `references/sources.md`에 있다. 각 앱의 실제 실행과 교실 효과는 별도로 검증해야 한다.
