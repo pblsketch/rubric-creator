@@ -1,0 +1,11 @@
+# 비공개 연구 자료: 도서 OCR, 다운로드한 PDF, 교육과정 스냅샷, 학교 평가계획 원본·대응표
+research/private/
+# 저작권 있는 도서 PDF
+*.pdf
+# 세션·도구 상태
+.omx/
+.omc/
+.claude/
+*.log
+Thumbs.db
+.DS_Store

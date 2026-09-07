@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubric Creator"
+  short_description: "수행평가 루브릭 설계·개선 (성취기준·DOK 활용, 학생 채점 아님)"
+  default_prompt: "Use $rubric-creator to design or revise a performance-assessment rubric. Interview me first about the learning goal, evidence, task conditions, and constraints before drafting."
