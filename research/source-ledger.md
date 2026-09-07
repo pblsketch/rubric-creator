@@ -71,9 +71,9 @@
 
 | ID | 자료 | URL | 확인 | 용도 |
 |---|---|---|---|---|
-| E-1 | OpenAI Codex — Skills | https://developers.openai.com/codex/skills/ | 읽음(웹) | `SKILL.md` 구조, `agents/openai.yaml` 선택 메타데이터 |
-| E-2 | Claude Code — Skills | https://code.claude.com/docs/en/skills | 읽음(웹) | `.claude/skills/` 위치, 참조 파일 분리 |
-| E-3 | Claude Help Center — Use skills in Claude | https://support.claude.com/en/articles/12512180-use-skills-in-claude | 읽음(웹) | 웹·데스크톱 사용자 스킬 ZIP 등록 |
+| E-1 | OpenAI Codex: Skills | https://developers.openai.com/codex/skills/ | 읽음(웹) | `SKILL.md` 구조, `agents/openai.yaml` 선택 메타데이터 |
+| E-2 | Claude Code: Skills | https://code.claude.com/docs/en/skills | 읽음(웹) | `.claude/skills/` 위치, 참조 파일 분리 |
+| E-3 | Claude Help Center: Use skills in Claude | https://support.claude.com/en/articles/12512180-use-skills-in-claude | 읽음(웹) | 웹·데스크톱 사용자 스킬 ZIP 등록 |
 
 ## G. 백워드 설계·GRASPS (2026-09-07 추가)
 
@@ -82,7 +82,7 @@
 | ID | 서지 | URL | 로컬 파일 (쪽, SHA-256 앞부분) | 확인 | 신뢰·한계 |
 |---|---|---|---|---|---|
 | G-1 | Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD. | https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf (제3자 게시본) | `ubd-2005-expanded.pdf` (382쪽, `6b2d6059`) | 읽음(부분: 7장 146–171, 8장 172–200 전체) | 1차 원전. **제3자 게시 PDF를 연구용으로만 읽었고 재배포하지 않는다.** 원문·그림·예시 과제는 스킬에 복제하지 않음 |
-| G-2 | McTighe, J., & Wiggins, G. (2010). *Developing Performance Tasks* — GRASPS Design Sheets, pp.12–16 | https://jaymctighe.com/downloads/GRASPS-Design-sheets.pdf | `mctighe-grasps-design-sheets.pdf` (5쪽, `71165b0f`) | 읽음(전체) | 저자 공식 사이트 공개 워크시트. 문장 틀·역할/청중/산출물 목록. 저자 저작권 표기 유지 |
+| G-2 | McTighe, J., & Wiggins, G. (2010). *Developing Performance Tasks: GRASPS Design Sheets*, pp.12–16 | https://jaymctighe.com/downloads/GRASPS-Design-sheets.pdf | `mctighe-grasps-design-sheets.pdf` (5쪽, `71165b0f`) | 읽음(전체) | 저자 공식 사이트 공개 워크시트. 문장 틀·역할/청중/산출물 목록. 저자 저작권 표기 유지 |
 | G-3 | North Vancouver School District 44 (2017). *Performance Assessment: GRASPS* (UbD PD Workbook 2004 각색) | https://nvsd44curriculumhub.ca/wp-content/uploads/2017/09/GRASPS-Instructions.pdf | `nvsd44-grasps-instructions.pdf` (3쪽, `ea5fbdd2`) | 읽음(전체) | 교육청 실무 안내. 2차 자료 |
 | G-4 | Flores, R. V. (2023). *Challenges in the Preparation of Performance Tasks: Basis for a Proposed GRASPS-based Guide on Performance Tasks in Mathematics.* ERIC ED649916 | https://files.eric.ed.gov/fulltext/ED649916.pdf | `eric-ED649916-performance-task-challenges.pdf` (22쪽, `04a7e83f`) | 읽음(부분: 초록·방법·결과) | 필리핀 중등 수학교사 72명 설문. R·A·S·P·S가 "very challenging". 기술적 조사, 효과 연구 아님 |
 | G-5 | Alvarez Llerena, C. L. (2024). Students' Perceptions of Applying the GRASPS Framework from the Backward Design Model in Learning English as a Foreign Language. *Language Teaching Research Quarterly*, 40, 129–146. ERIC EJ1425222 | https://files.eric.ed.gov/fulltext/EJ1425222.pdf | `eric-EJ1425222-grasps-perceptions.pdf` (18쪽, `8bacc1cd`) | 읽음(부분: 초록·서론) | 에콰도르 EFL 학생 인식 조사. 성취 효과 아님 |

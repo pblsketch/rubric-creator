@@ -11,8 +11,8 @@
 | 자료 | 성격 | 확인 범위 |
 |---|---|---|
 | Wiggins & McTighe (2005). *Understanding by Design*, 2nd ed. ASCD. | 1차 원전 | 7장 "Thinking like an Assessor"(146–171), 8장 "Criteria and Validity"(172–200) 전체 |
-| McTighe & Wiggins (2010). *Developing Performance Tasks* — GRASPS Design Sheets (pp.12–16) | 저자 공식 워크시트 | 5쪽 전체: 수학·사회 예시, 문장 틀, 역할·청중 목록, 산출물 목록 |
-| NVSD44 (2017). *Performance Assessment: GRASPS* — UbD PD Workbook(2004) 각색 | 교육청 실무 안내 | 3쪽 전체 |
+| McTighe & Wiggins (2010). *Developing Performance Tasks: GRASPS Design Sheets* (pp.12–16) | 저자 공식 워크시트 | 5쪽 전체: 수학·사회 예시, 문장 틀, 역할·청중 목록, 산출물 목록 |
+| NVSD44 (2017). *Performance Assessment: GRASPS* (UbD PD Workbook 2004 각색) | 교육청 실무 안내 | 3쪽 전체 |
 | Flores (2023). Challenges in the Preparation of Performance Tasks: Basis for a Proposed GRASPS-based Guide. ERIC ED649916 | 실증(필리핀 중등 수학교사 72명 설문) | 초록·방법·결과 |
 | Alvarez Llerena (2024). Students' Perceptions of Applying the GRASPS Framework… *Language Teaching Research Quarterly*, 40, 129–146. ERIC EJ1425222 | 실증(에콰도르 EFL 학생 283명 인식 조사) | 초록·서론 |
 
@@ -57,12 +57,12 @@
 
 ---
 
-## 4. 기준과 타당성 (8장) — 루브릭과의 연결
+## 4. 기준과 타당성 (8장): 루브릭과의 연결
 
 - **기준은 목표에서 도출한다. 보기 쉬운 것에서 도출하지 않는다**(173). 각주가 많다고 높은 점수, 재치 있다고 이해했다고 추정, 화려하다고 효과적이라 판단하는 오류.
 - **분석적 루브릭을 권한다**(174–175). 총체적 점수는 결함이 서로 다른 두 작업을 같게 보이게 한다.
 - 시작점은 두 기준: **이해의 질**과 **수행의 질**. 필요하면 과정을 셋째로 추가(181).
-- 여섯 측면별 기준어(그림 8.2, 177): 설명—정확·일관·정당화·체계·예측 / 해석—의미·통찰·중요·예시·조명 / 적용—효과·효율·유창·적응·우아 / 관점—신뢰·드러냄·통찰·타당·특이 / 공감—민감·개방·수용·지각·재치 / 자기지식—자각·메타인지·자기조정·성찰·현명.
+- 여섯 측면별 기준어(그림 8.2, 177): 설명: 정확·일관·정당화·체계·예측 / 해석: 의미·통찰·중요·예시·조명 / 적용: 효과·효율·유창·적응·우아 / 관점: 신뢰·드러냄·통찰·타당·특이 / 공감: 민감·개방·수용·지각·재치 / 자기지식: 자각·메타인지·자기조정·성찰·현명.
 - **기술어는 실제 학생 작업을 분류해 봐야 완성된다**(180). Arter & McTighe의 6단계(표본 수집 → 상·중·하 분류와 이유 → 특성 묶기 → 기술 → 적용·수정)는 Brookhart의 상향식과 같은 절차다.
 - **평균 내지 말 것**(177): 이해는 시간에 따라 자라므로 초기와 최종을 평균하면 왜곡된다.
 

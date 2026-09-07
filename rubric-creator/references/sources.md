@@ -13,24 +13,24 @@
   - 체크리스트·평정 척도와의 구분, 분석적/총체적·일반적/과제별 선택
   - 학습목표 공유, 자기평가, 피드백 시점
   - 루브릭 점수 ≠ 백분율, 중앙값 권장, 척도 통일 후 합산
-- Brookhart, S. M. (2018). Appropriate Criteria: Key to Effective Rubrics. *Frontiers in Education*, 3:22. https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00022/full — "적절한 평가요소" 개념의 공개 논문.
+- Brookhart, S. M. (2018). Appropriate Criteria: Key to Effective Rubrics. *Frontiers in Education*, 3:22. https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00022/full: "적절한 평가요소" 개념의 공개 논문.
 
 **재사용 경계:** 교사가 책의 특정 표나 예시를 그대로 달라고 하면, 저작권 대상임을 알리고 같은 원리로 새 예시를 만들어 준다. 책의 제목과 저자를 소개하는 것은 문제없다.
 
 ## B. DOK
 
-- WebbAlign / Webb, N. L. (2025). *What is Depth of Knowledge (DOK)?* https://www.webbalign.org/dok-primer — DOK는 채점 루브릭·개인 측정·위계가 아님을 명시.
-- Webb, N., Christopherson, S., & Morelan, B. (2023). *An Inside Look at Webb's Depth of Knowledge*. Edutopia. https://www.edutopia.org/article/how-use-norman-webb-depth-of-knowledge/ — 동사 휠의 부정확성, DOK4 조건, 난도와 복잡성 구분.
-- Webb, N. L. (2007). Issues Related to Judging the Alignment of Curriculum Standards and Assessments. *Applied Measurement in Education*, 20(1), 7–25. — 정렬 판단의 다기준·주관성(초록 확인).
-- Hess, K. K., Jones, B. S., Carlock, D., & Walkup, J. R. (2009). *Cognitive Rigor: Blending the Strengths of Bloom's Taxonomy and Webb's Depth of Knowledge*. ERIC ED517804. https://files.eric.ed.gov/fulltext/ED517804.pdf — Bloom과 DOK를 일대일 대응하지 않음. 매트릭스 도표는 복제하지 않음.
-- Christopherson, S. C. (2023). *Differentiating Difficulty from Complexity to Promote Intended Uses of Learning Progressions*. NCME. https://www.webbalign.org/ncme-2023-differentiating-difficulty-from-complexity — 난도 ≠ 복잡성 실증.
+- WebbAlign / Webb, N. L. (2025). *What is Depth of Knowledge (DOK)?* https://www.webbalign.org/dok-primer: DOK는 채점 루브릭·개인 측정·위계가 아님을 명시.
+- Webb, N., Christopherson, S., & Morelan, B. (2023). *An Inside Look at Webb's Depth of Knowledge*. Edutopia. https://www.edutopia.org/article/how-use-norman-webb-depth-of-knowledge/: 동사 휠의 부정확성, DOK4 조건, 난도와 복잡성 구분.
+- Webb, N. L. (2007). Issues Related to Judging the Alignment of Curriculum Standards and Assessments. *Applied Measurement in Education*, 20(1), 7–25: 정렬 판단의 다기준·주관성(초록 확인).
+- Hess, K. K., Jones, B. S., Carlock, D., & Walkup, J. R. (2009). *Cognitive Rigor: Blending the Strengths of Bloom's Taxonomy and Webb's Depth of Knowledge*. ERIC ED517804. https://files.eric.ed.gov/fulltext/ED517804.pdf: Bloom과 DOK를 일대일 대응하지 않음. 매트릭스 도표는 복제하지 않음.
+- Christopherson, S. C. (2023). *Differentiating Difficulty from Complexity to Promote Intended Uses of Learning Progressions*. NCME. https://www.webbalign.org/ncme-2023-differentiating-difficulty-from-complexity: 난도 ≠ 복잡성 실증.
 - WebbAlign 교과별 DOK 정의: Science https://www.webbalign.org/dok-definitions-for-science · Math https://www.webbalign.org/dok-definitions-for-math · Reading https://www.webbalign.org/dok-definitions-for-reading · Social Studies https://www.webbalign.org/dok-definitions-for-social-studies
 
 **한계:** 이 자료들은 과제의 인지적 요구 분석의 유용성을 뒷받침한다. DOK를 반영한 루브릭이 한국 학생의 학습이나 채점 신뢰도를 높인다는 인과 근거는 확인되지 않았다. 예술·체육·직업 실무 전체에 대한 DOK 타당화 자료는 확보하지 못했다.
 
 ## C. 2022 개정 교육과정
 
-- 교육부 고시 및 교육과정 문서: 국가교육과정정보센터(NCIC) https://ncic.re.kr — 성취기준 원문·해설·적용 시 고려사항의 공식 출처.
+- 교육부 고시 및 교육과정 문서: 국가교육과정정보센터(NCIC) https://ncic.re.kr: 성취기준 원문·해설·적용 시 고려사항의 공식 출처.
 - 학년별 시행 시기: 교육부 고시 제2022-33호 부칙, 제2026-1호 공지.
 - 성취기준 학습맵 MCP(코드 MIT, 원문은 각 저장소의 공공저작물·고시 근거):
   - 초등 https://github.com/taehyeonglim/korean-elementary-learning-map-mcp
@@ -43,10 +43,10 @@
 
 `task-design.md`의 절차는 다음 자료의 원리와 저자가 공개한 문장 틀을 2022 개정 교육과정 용어로 재구성한 것이다. 원문의 예시 과제·그림은 복제하지 않았고 예시는 새로 썼다.
 
-- Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD. — 7장(증거 중심 설계, 진정한 과제의 특징, 연습과 문제, 여섯 측면, GRASPS), 8장(기준은 목표에서, 분석적 루브릭, 타당성 두 질문과 자기점검 7항목).
-- McTighe, J., & Wiggins, G. (2010). *Developing Performance Tasks* — GRASPS Design Sheets. https://jaymctighe.com/downloads/GRASPS-Design-sheets.pdf — 문장 틀, 역할·청중·산출물 목록. "아이디어 시작점이며 모든 빈칸을 채우려 하지 말라".
-- Flores, R. V. (2023). *Challenges in the Preparation of Performance Tasks…* ERIC ED649916. https://files.eric.ed.gov/fulltext/ED649916.pdf — 교사들은 역할·청중·상황·산출물·기준을 특히 어려워한다(필리핀 중등 수학교사 설문).
-- Alvarez Llerena, C. L. (2024). Students' Perceptions of Applying the GRASPS Framework… *Language Teaching Research Quarterly*, 40, 129–146. https://files.eric.ed.gov/fulltext/EJ1425222.pdf — 학생 인식 조사.
+- Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD: 7장(증거 중심 설계, 진정한 과제의 특징, 연습과 문제, 여섯 측면, GRASPS), 8장(기준은 목표에서, 분석적 루브릭, 타당성 두 질문과 자기점검 7항목).
+- McTighe, J., & Wiggins, G. (2010). *Developing Performance Tasks: GRASPS Design Sheets*. https://jaymctighe.com/downloads/GRASPS-Design-sheets.pdf: 문장 틀, 역할·청중·산출물 목록. "아이디어 시작점이며 모든 빈칸을 채우려 하지 말라".
+- Flores, R. V. (2023). *Challenges in the Preparation of Performance Tasks…* ERIC ED649916. https://files.eric.ed.gov/fulltext/ED649916.pdf: 교사들은 역할·청중·상황·산출물·기준을 특히 어려워한다(필리핀 중등 수학교사 설문).
+- Alvarez Llerena, C. L. (2024). Students' Perceptions of Applying the GRASPS Framework… *Language Teaching Research Quarterly*, 40, 129–146. https://files.eric.ed.gov/fulltext/EJ1425222.pdf: 학생 인식 조사.
 
 **용어:** 교육과정 문서(교육부 고시 제2022-33호)의 용어를 따른다. 핵심 아이디어, 내용 체계, 내용 요소(지식⋅이해 / 과정⋅기능 / 가치⋅태도), 성취기준 해설, 성취기준 적용 시 고려 사항, 평가의 방향·평가 방법, 성취수준. UbD의 "영속적 이해", "본질적 질문"은 교육과정 문서에 없으므로 쓰지 않는다. 핵심 아이디어는 세 MCP 데이터에 없다.
 

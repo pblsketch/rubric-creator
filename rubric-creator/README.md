@@ -1,4 +1,4 @@
-# Rubric Creator Skill — 설치 안내
+# Rubric Creator Skill: 설치 안내
 
 Claude(웹·데스크톱), Claude Code, Codex에서 같은 폴더를 쓴다. 핵심은 `SKILL.md`이고, `references/`는 필요할 때만 읽히는 참고 자료다. `README.md`는 설치용이며 스킬 동작에 필요하지 않다.
 

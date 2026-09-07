@@ -24,18 +24,18 @@
 ### 조회 순서
 
 **초등**
-1. `list_curricula` — 실제 교과명 확인
+1. `list_curricula`: 실제 교과명 확인
 2. `search_standards`(query, subject, gradeBand `1-2|3-4|5-6`, domain) 또는 `search_standard_text`(원문 키워드)
-3. `get_standard`(code) — 전체 레코드와 원문
+3. `get_standard`(code): 전체 레코드와 원문
 
 **중·고 보통교과**
-1. `list_curricula`(schoolLevel `middle|high`, subjectGroup) — 과목명 확인
+1. `list_curricula`(schoolLevel `middle|high`, subjectGroup): 과목명 확인
 2. `search_standards`(query, subject, schoolLevel, gradeBand `7-9|10|10-12`, domain) 또는 `search_standard_text`
-3. `get_standard`(code, **subject**) — **같은 코드를 두 과목이 공유하는 경우가 있으므로 과목명을 함께 준다**
+3. `get_standard`(code, **subject**): **같은 코드를 두 과목이 공유하는 경우가 있으므로 과목명을 함께 준다**
 
 **특성화고 전문교과**
-1. `list_major_fields` — 계열 확인
-2. `list_curricula`(majorField) — 과목 확인
+1. `list_major_fields`: 계열 확인
+2. `list_curricula`(majorField): 과목 확인
 3. `search_standard_text`(query, subject, majorField) 또는 `search_standards`
 4. `get_standard`(code, subject, majorField)
 

@@ -239,7 +239,7 @@ rubric-creator/
   references/
     rubric-principles.md       요소·수준·점수의 판단 규칙
     revise-rubric.md           기존 표 진단·개선 시에만 읽음
-    task-design.md             과제 재설계(GRASPS) 시에만 읽음 — 2026-09-07 추가
+    task-design.md             과제 재설계(GRASPS) 시에만 읽음 (2026-09-07 추가)
     curriculum.md              제공자별 조회, 원문·적용 연도 검증
     dok.md                     사고 요구가 쟁점일 때만 읽음
     subject-guidance.md        필요한 교과 부분만 읽음
